@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":148:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:3:{s:27:"MoneyTest::testCanBeNegated";d:0.001;s:25:"StackTest::testPushAndPop";d:0;s:12:"MyTest::test";d:0;}}}
